@@ -89,7 +89,7 @@ CS50-SQL-Final-Project/
 
 ## 🎥 Project Demonstration
 
-YouTube: https://youtu.be/EbZqOgX7ZiU
+YouTube: https://youtu.be/EbZqOgX7ZiU?si=AhIslzL_GhYwXKwC
 
 ---
 
