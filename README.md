@@ -79,7 +79,6 @@ CS50-SQL-Final-Project/
 ├── DESIGN.md
 ├── schema.sql
 ├── queries.sql
-├── hospital.db
 ├── ER Diagram.png
 ├── README.md
 └── LICENSE
@@ -89,7 +88,7 @@ CS50-SQL-Final-Project/
 
 ## 🎥 Project Demonstration
 
-YouTube: https://youtu.be/EbZqOgX7ZiU?si=AhIslzL_GhYwXKwC
+- **Watch the Project Demo:** [YouTube Demo](https://youtu.be/EbZqOgX7ZiU)
 
 ---
 
